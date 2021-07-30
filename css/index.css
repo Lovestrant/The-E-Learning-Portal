@@ -1,0 +1,42 @@
+#headerbody{  
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.reginput{
+    width: 200px;
+    height: 30px;
+}
+.passinput{
+    width: 200px;
+    height: 30px;
+}
+#headerbody{
+    justify-content: center;
+    text-align: center;  
+}
+a{
+    margin: 5px;
+}
+#bottomdiv{
+    margin-top: 20px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    
+}
+#reset {
+    margin-left: 10px;
+    color: red;
+}
+#topparagraph {
+    color:green;
+}
+
+#middiv{
+    margin-top: 100px;
+}
+#lowerdiv{
+    margin-top: 50px;
+}

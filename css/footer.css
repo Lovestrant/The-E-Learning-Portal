@@ -1,0 +1,12 @@
+
+#footerbody{
+    background-color: rgba(31, 30, 30, 0.849);
+    color: white;
+   
+}
+.socialmedialinks{
+    background-color: blueviolet;
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;
+}

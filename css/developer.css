@@ -1,0 +1,50 @@
+#header {  
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    background-color:white;
+}
+#numrow{
+ text-align: center;
+ justify-content: center;
+}
+.reginput{
+    width: 200px;
+    height: 30px;
+}
+.passinput{
+    width: 200px;
+    height: 30px;
+}
+#topform{
+    justify-content: left;
+    text-align: left;  
+    margin-bottom: 50px;
+  
+}
+a{
+    margin: 5px;
+}
+
+#reset {
+    margin-left: 10px;
+    color: red;
+    text-align: left;
+}
+#topparagraph {
+    color:green;
+}
+
+#middiv{
+    margin-top: 100px;
+}
+#lowerdiv{
+    margin-top: 50px;
+}
+#bottomform {
+    justify-content: center;
+    text-align: center;
+  
+    margin-top: -23%;
+}

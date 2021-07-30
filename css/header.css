@@ -1,0 +1,21 @@
+#headerbody {
+    background-color: rgb(72, 172, 72);
+    height: auto;
+
+}
+.institution {
+    color: red;
+    justify-content: center;
+    text-align: center;
+}
+.motto{
+    color: rgb(4, 0, 255);
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+}
+.elearningLabel{
+    text-align: left;
+    margin-left: 50px;
+}
+
